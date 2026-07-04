@@ -1,1 +1,1 @@
-
+This doctor clinic landing page is built using Bootstrap. It features a beautiful and attractive user interface designed to engage visitors. The page is fully responsive, ensuring it looks and functions perfectly on any device. Ideal for clinics looking to present their services and information in an appealing and professional manner.
